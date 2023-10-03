@@ -1,0 +1,11 @@
+#sidebar a {
+    margin: 20px;
+    font-size: 18px;
+}
+#sidebar a.active {
+    color: red;
+    text-decoration: underline;
+  }
+  NavLink{
+    margin: 3px 10px;
+  }

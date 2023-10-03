@@ -1,0 +1,264 @@
+
+    [
+      { "id" : 44,
+        "picture": "https://i.postimg.cc/fLBjF2pH/Health.png",
+        "title": "Health Product 1",
+        "category": "Health",
+        "category_bg_color": "#7199ef",
+        "card_bg_color": "#a9c0f1",
+        "text_button_bg_color": "#0052FF",
+        "description": "In times of illness and adversity, your donation can be a beacon of hope for those facing health challenges. Your generosity enables us to reach out to individuals who are currently battling health issues and struggling to cover medical expenses. With your support, we can provide financial assistance, access to necessary treatments, and a lifeline of support to help them navigate through these difficult times. Join us in making a positive impact on the lives of those in need.",
+        "price": "$49.99"
+      },
+      {
+        "id" : 1,
+        "picture": "https://i.postimg.cc/ZR8KKX4c/Education.png",
+        "title": "Educational Book",
+        "category": "Education",
+        "category_bg_color": "#be171c",
+        "card_bg_color": "#f9c5c7",
+        "text_button_bg_color": "#db6c70",
+        "description": "Education is a key that unlocks countless opportunities. Your donation serves as that key for individuals who face barriers to accessing quality education. With your support, we can remove financial obstacles, provide educational support services, and create pathways to success for learners of all ages. Your contribution can empower individuals to overcome challenges, pursue their dreams, and build a brighter future through education.",
+        "price": "$19.99"
+      },
+      { "id" : 5,
+        "picture": "https://i.postimg.cc/sXVb7L5K/Clothing.png",
+        "title": "Fashionable Clothing",
+        "category": "Clothing",
+        "category_bg_color": "#4a8619",
+        "card_bg_color": "#bad3a6",
+        "text_button_bg_color": "#a0f05e",
+        "description": "Your donation can bring warmth, comfort, and dignity to those who are less fortunate. By contributing to our clothing initiative, you help us provide essential clothing items to individuals and families in need. Your support can supply warm coats for the winter, clothing for job interviews, and school uniforms for children. With your generosity, we can ensure that everyone has access to clean and appropriate clothing, promoting not only physical well-being but also a sense of self-worth and dignity.",
+        "price": "$79.99"
+      },
+      { "id" : 9,
+        "picture": "https://i.postimg.cc/9fWjYzhG/Food.png",
+        "title": "Delicious Food Item",
+        "category": "Food",
+        "category_bg_color": "#a0f05e",
+        "card_bg_color": "#f6ccb1",
+        "text_button_bg_color": "#e68544",
+        "description": "Your donation can be a lifeline for individuals and families facing hunger and food insecurity. By contributing to our food initiative, you help us provide nutritious meals to those who are struggling to put food on the table. Your support can stock food pantries, fund meal programs, and deliver emergency food relief to communities in need. Together, we can ensure that no one goes to bed hungry, promoting the well-being of individuals and families.",
+        "price": "$9.99"
+      },
+      { "id" : 55,
+        "picture": "https://i.postimg.cc/fLBjF2pH/Health.png",
+        "title": "Health Product 1",
+        "category": "Health",
+        "category_bg_color": "#7199ef",
+        "card_bg_color": "#a9c0f1",
+        "text_button_bg_color": "#0052FF",
+        "description": "Your donation serves as a lifeline for individuals whose lives have been disrupted by health setbacks. It allows us to offer essential support to those facing medical crises, including assistance with medical bills, access to rehabilitation services, and emotional support to aid in their recovery journey. Your contribution can be the difference between despair and renewed hope, as we work together to empower individuals to regain their health and well-being.",
+        "price": "$49.99"
+      },
+      {
+        "id" : 2,
+        "picture": "https://i.postimg.cc/ZR8KKX4c/Education.png",
+        "title": "Educational Book",
+        "category": "Education",
+        "category_bg_color": "#be171c",
+        "card_bg_color": "#f9c5c7",
+        "text_button_bg_color": "#db6c70",
+        "description": "Your donation can ignite a lifelong passion for learning in students of all ages. It enables us to create engaging and accessible learning environments, whether through community workshops, online courses, or literacy programs. By contributing to our education cause, you help individuals acquire new skills, enhance their knowledge, and foster a love for learning that lasts a lifetime.",
+        "price": "$19.99"
+      },
+      {
+        "id" : 6,
+        "picture": "https://i.postimg.cc/sXVb7L5K/Clothing.png",
+        "title": "Fashionable Clothing",
+        "category": "Clothing",
+        "category_bg_color": "#4a8619",
+        "card_bg_color": "#bad3a6",
+        "text_button_bg_color": "#a0f05e",
+        "description": "Clothing plays a significant role in one's confidence and success. Your donation can empower individuals to dress for success by providing them with appropriate attire for job interviews, career fairs, or important life events. Your support helps individuals put their best foot forward, boost their self-esteem, and increase their chances of securing employment and achieving their goals. Join us in helping people take the first step toward a brighter future through the gift of clothing.",
+        "price": "$79.99"
+      },
+      
+      {
+        "id" : 10,
+        "picture": "https://i.postimg.cc/9fWjYzhG/Food.png",
+        "title": "Delicious Food Item",
+        "category": "Food",
+        "category_bg_color": "#a0f05e",
+        "card_bg_color": "#f6ccb1",
+        "text_button_bg_color": "#e68544",
+        "description": "Food has the power to nourish not only the body but also the spirit. Your donation enables us to serve hope on a plate by providing warm meals to homeless individuals, refugees, and those in crisis. Your support can fund soup kitchens, community meal programs, and initiatives that ensure that everyone has access to a hot and nutritious meal. Join us in making a difference in the lives of those who need it most through the gift of food.",
+        "price": "$9.99"
+      },
+      {
+        "id" : 77,
+        "picture": "https://i.postimg.cc/fLBjF2pH/Health.png",
+        "title": "Health Product 1",
+        "category": "Health",
+        "category_bg_color": "#7199ef",
+        "card_bg_color": "#a9c0f1",
+        "text_button_bg_color": "#0052FF",
+        "description": "Every donation you make helps us provide much-needed relief and comfort to those who are unwell and facing challenging circumstances. Your support can fund medical treatments, medications, and palliative care for individuals dealing with chronic illnesses. It can also offer respite to their families, alleviating the emotional and financial burdens that often accompany serious health issues. Your contribution brings relief and a sense of care to those in difficult situations.",
+        "price": "$49.99"
+      },
+      {
+        "id" : 3,
+        "picture": "https://i.postimg.cc/ZR8KKX4c/Education.png",
+        "title": "Educational Book",
+        "category": "Education",
+        "category_bg_color": "#be171c",
+        "card_bg_color": "#f9c5c7",
+        "text_button_bg_color": "#db6c70",
+        "description": "Education should be a right, not a privilege. Your donation helps bridge the educational gap by ensuring that students from disadvantaged backgrounds have access to quality learning opportunities. Your support can fund after-school programs, supply essential educational materials, and provide tutoring for students who need it most. Together, we can level the playing field and empower every student to reach their full potential.",
+        "price": "$19.99"
+      },
+      {
+        "id" : 7,
+        "picture": "https://i.postimg.cc/sXVb7L5K/Clothing.png",
+        "title": "Fashionable Clothing",
+        "category": "Clothing",
+        "category_bg_color": "#4a8619",
+        "card_bg_color": "#bad3a6",
+        "text_button_bg_color": "#a0f05e",
+        "description": "In times of crisis, access to clean and comfortable clothing can make a world of difference. Your donation enables us to respond swiftly to emergency situations, providing clothing to those affected by disasters, displacement, or unforeseen circumstances. By contributing to our clothing relief efforts, you provide individuals and families with a sense of security and comfort during their most challenging times.",
+        "price": "$79.99"
+      },
+      {
+        "id" : 11,
+        "picture": "https://i.postimg.cc/9fWjYzhG/Food.png",
+        "title": "Delicious Food Item",
+        "category": "Food",
+        "category_bg_color": "#a0f05e",
+        "card_bg_color": "#f6ccb1",
+        "text_button_bg_color": "#e68544",
+        "description": "Your donation can also support efforts to reduce food waste and combat hunger simultaneously. By contributing to our food sustainability initiatives, you help divert surplus food from landfills to those in need. Your support can fund food rescue programs, community gardens, and educational initiatives that promote responsible food consumption. Together, we can work toward a world where good food is shared, not wasted, and where hunger is minimized.",
+        "price": "$9.99"
+      },
+
+
+
+
+
+
+
+      
+
+      
+
+      
+      {
+        "picture": "https://i.postimg.cc/fLBjF2pH/Health.png",
+        "title": "Health Product 1",
+        "category": "Health",
+        "category_bg_color": "#7199ef",
+        "card_bg_color": "#a9c0f1",
+        "text_button_bg_color": "#0052FF",
+        "description": "In times of health crises, your donation can be a crucial lifeline for those who find themselves in vulnerable positions. Your generosity allows us to swiftly respond to urgent medical needs, providing financial assistance, access to medical specialists, and essential resources. Together, we can stand with individuals and families during their toughest battles, offering them the support and assistance they need to navigate through health challenges and regain stability in their lives.",
+        "price": "$49.99"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+     
+      
+      {
+        "id" : 4,
+        "picture": "https://i.postimg.cc/ZR8KKX4c/Education.png",
+        "title": "Educational Book",
+        "category": "Education",
+        "category_bg_color": "#be171c",
+        "card_bg_color": "#f9c5c7",
+        "text_button_bg_color": "#db6c70",
+        "description": "Your donation can be a powerful force for change in the lives of students and learners. By contributing to our education initiative, you empower individuals to access quality education, break barriers, and pursue their dreams. Your support can provide scholarships, educational resources, and mentorship opportunities, opening doors to a brighter future for countless students. Join us in shaping the next generation of leaders and thinkers through the gift of education.",
+        "price": "$19.99"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+     
+      {
+        "id" : 8,
+        "picture": "https://i.postimg.cc/sXVb7L5K/Clothing.png",
+        "title": "Fashionable Clothing",
+        "category": "Clothing",
+        "category_bg_color": "#4a8619",
+        "card_bg_color": "#bad3a6",
+        "text_button_bg_color": "#a0f05e",
+        "description": "Your donation can also support sustainability in the fashion industry. By contributing to our sustainable clothing initiatives, you help reduce the environmental impact of fashion and promote ethical and eco-friendly practices. Your support can fund initiatives such as clothing recycling programs, sustainable fashion education, and the creation of eco-conscious clothing lines. Together, we can work toward a more sustainable and responsible future for the fashion industry.",
+        "price": "$79.99"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+     
+      { "id" : 12,
+        "picture": "https://i.postimg.cc/9fWjYzhG/Food.png",
+        "title": "Delicious Food Item",
+        "category": "Food",
+        "category_bg_color": "#a0f05e",
+        "card_bg_color": "#f6ccb1",
+        "text_button_bg_color": "#e68544",
+        "description": "Food can be a catalyst for positive change in communities. Your donation can empower individuals and communities to become self-sufficient by supporting initiatives such as community kitchens, culinary training programs, and food entrepreneurship. Your support can equip people with the skills and resources they need to break the cycle of poverty and build a better future for themselves and their families. Join us in using the power of food to create lasting change in communities.",
+        "price": "$9.99"
+      }
+      
+    ]
+
+  

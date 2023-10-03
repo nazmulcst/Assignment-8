@@ -1,0 +1,9 @@
+input{
+ margin-top: 60px;
+ width: 60% !important;
+}
+.search-btn{
+    width: 20% !important;
+    padding: 0px 2px;
+    background-color: red;
+}
